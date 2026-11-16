@@ -2,9 +2,6 @@ HR Analytics Dashboard | Power BI
 
 An interactive Power BI dashboard that analyzes employee attrition and workforce trends for 1,470 employees.
 
-## Dashboard Preview
-![Dashboard](dashboard-1.png)
-
 ## Objective
 To understand why employees leave and which groups are most affected, so HR can make better retention decisions.
 
@@ -43,8 +40,5 @@ To understand why employees leave and which groups are most affected, so HR can 
 1. Download the .pbix file.
 2. Open it in Power BI Desktop (free to download from Microsoft).
 
-## Author
-*Krishna*
-B.Sc. Mathematics with Data Science
 Aspiring Data Analys# HR- Analytics-Power- BI- Dashboard
 This is a HR Analytical Dashboard. This will display Attrition of people on different field in an IT firm and categorise according to age.
